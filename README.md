@@ -845,9 +845,13 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT
-![alt text](portfolio/images/1.png)
-![alt text](image-1.png)
-![alt text](portfolio/images/3.png)
-![alt text](portfolio/images/4.png)
+<img width="1882" height="902" alt="1" src="https://github.com/user-attachments/assets/177dfdd4-2441-4976-b252-97d1d2462936" />
+<img width="1871" height="942" alt="2" src="https://github.com/user-attachments/assets/ae7ebf5b-61a3-4ba9-b94e-3580742f66dc" />
+<img width="1869" height="907" alt="3" src="https://github.com/user-attachments/assets/f2f1a4d9-c278-4973-b432-9254383bb493" />
+<img width="1857" height="918" alt="4" src="https://github.com/user-attachments/assets/db24df0b-09c7-4bfd-9ed1-ef5386784169" />
+
+
+
+
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
